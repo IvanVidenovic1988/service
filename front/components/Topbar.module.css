@@ -1,0 +1,49 @@
+.topbar {
+    height: 42px;
+    background-color: #242434;
+    color: white;
+}
+
+.topbar-content {
+    display: flex;
+    justify-content: space-between;
+    padding: 3px 48px;
+    height: 36px;
+    box-sizing: content-box;
+}
+
+.topbar-left { 
+    width: 148px;
+}
+
+.topbar-center { 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.topbar-center p {
+    font-size: 12px;
+    font-weight: 600;
+    line-height: 1.75em;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+}
+
+.topbar-right {
+    display: flex;
+    align-items: center;
+}
+
+.social-icons {
+    display: flex;
+}
+
+.social-icons li {
+    padding-left: 18px;
+}
+
+.search-btn {
+    margin: 0 0 0 36px;
+}
+

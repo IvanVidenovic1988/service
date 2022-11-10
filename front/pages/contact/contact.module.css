@@ -1,0 +1,136 @@
+.main {
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+
+.contact-heading {
+    text-align: center;
+    height: 59px;
+    margin-bottom: 30px;
+    font-size: 17px;
+}
+
+.contact-heading p {
+    color: rgb(58,58,59);
+}
+
+.contact-heading a {
+    color: rgb(219,148,87);
+}
+
+.contact-wrapper {
+    width: 700px;
+    margin: 0 auto;
+}
+
+.contact-container {
+    margin-left: 60px;
+    margin-right: 60px;
+    margin-bottom: 24px;
+}
+
+.label {
+    height: 79px;
+    margin-bottom: 24px;
+}
+
+.label p {
+    font-size: 13px;
+    font-weight: 600;
+    letter-spacing: 3px;
+    margin-bottom: 5px;
+}
+
+.input {
+    border: 1px solid rgb(230,230,234);
+    width: 100%;
+    height: 49px;
+    padding: 0 17px;
+    font-weight: 600;
+}
+
+.textarea-label {
+    font-size: 13px;
+    font-weight: 600;
+    letter-spacing: 3px;
+    margin-bottom: 5px;
+    margin-bottom: 24px;
+}
+
+.textarea {
+    border: 1px solid rgb(230,230,234);
+    width: 100%;
+    height: 170px;
+    padding: 12px 17px;
+}
+
+.btn {
+    width: 121px;
+    height: 51px;
+    background-color: rgb(36,36,52);
+    color: rgb(219,148,87);
+    font-size: 14px;
+    letter-spacing: 2px;
+}
+
+/* newsletter */
+
+.newsletter-heading {
+    height: 60px;
+    text-align: center;
+    margin-bottom: 29px;
+}
+
+.newsletter-heading a {
+    color: rgb(219,148,87);
+}
+
+.newsletter-signup-wrapper {
+    height: 350px;
+    padding: 60px;
+    margin: 0 auto;
+    background-color: #f6f6f7;
+}
+
+.newsletter-signup-form {
+    text-align: center;
+}
+
+.newsletter-signup-form h3 {
+    font-size: 33px;
+    margin-top: 12px;
+    margin-bottom: 33px;
+    font-weight: bold;
+}
+
+.newsletter-signup-form p {
+    font-size: 17px;
+    margin-bottom: 24px;
+}
+
+.subscribe-wrapper {
+    margin-bottom: 24px;
+}
+
+.subscribe-input {
+    width: 300px;
+    height: 51px;
+    margin: 12px 6px 0;
+    padding: 0 100px;
+    font-weight: bold;
+    border: 1px solid rgb(230,230,234);
+}
+
+.subscribe-wrapper button {
+    width: 144px;
+    height: 51px;
+    margin: 12px 6px 0;
+}
+
+
+
+/* https://preview.themeforest.net/item/amaya-coffee-shop-wordpress-theme/full_screen_preview/29556312?_ga=2.39703267.1912010309.1667278110-595233102.1666162034&_gac=1.83627364.1667278110.CjwKCAjw5P2aBhAlEiwAAdY7dCt9Xp-fKbcKfwYfSr1_zB81sQCpnEHzupVWa5VIO1NfZ9iUqGe88RoC0cIQAvD_BwE
+
+IvanVidenovic1988
+
+https://popmotion.io */
